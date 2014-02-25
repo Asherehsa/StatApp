@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatApp</string>
+    <string name="choose_prompt">What\'cha wanna do?</string>
+    <string-array name="choose_array">
+        <item>Mean of Probability Distribution</item>
+        <item>Cumulative Probability Distribution</item>
+        <item>Continuous Probability Distribution</item>
+        <item>Binomial Distribution</item>
+    </string-array>
+</resources>
