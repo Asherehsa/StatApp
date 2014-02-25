@@ -3,9 +3,12 @@
     <string name="app_name">StatApp</string>
     <string name="choose_prompt">What\'cha wanna do?</string>
     <string-array name="choose_array">
+        <item>Combination</item>
         <item>Mean of Probability Distribution</item>
         <item>Cumulative Probability Distribution</item>
         <item>Continuous Probability Distribution</item>
         <item>Binomial Distribution</item>
+        <item>Mean of Binomial Distribution</item>
+        <item>Variance of Binomial Distribution</item>
     </string-array>
 </resources>
